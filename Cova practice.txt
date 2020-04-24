@@ -1,2 +1,9 @@
-HI
-ETC
+import web driver
+class cova
+{
+	hello new practice
+	yes please
+}
+class X {
+  int x;
+}
